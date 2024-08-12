@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @SyedVaseem
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...LinkedIn-https://www.linkedin.com/in/vaseembashasyed/
+- 👀 I am Devleoping My Skills in Full Stack Development
+- 🌱 I’m currently learning ...JavaScript
+- 💞️ I’m looking to collaborate on ... Full Stack Web Development
+- 📫 How to reach me ...↓↓↓↓
+- LinkedIn-https://www.linkedin.com/in/vaseembashasyed/
+- Gmail - syedvaseem546@gmail.com
 
 
 - 😄 Pronouns: ...
