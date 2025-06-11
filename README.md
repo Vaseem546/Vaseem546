@@ -7,8 +7,6 @@
 - Gmail - syedvaseem546@gmail.com
 
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Vaseem546/Vaseem546 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
