@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyedVaseem
 - 👀 I am Currently Devleoping My Skills in Full Stack Development
-- 🌱 I’m currently learning ... n8n
+- 🌱 I’m currently learning ... DSA
   
 - 💞️ I’m looking to collaborate on ... Full Stack Web Development
 - 📫 How to reach me ...↓↓↓↓
