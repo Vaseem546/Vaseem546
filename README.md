@@ -1,12 +1,165 @@
-# 💫 About Me:
-👋 Hi, I'm Syed Vaseem Basha<br><br>🎓 B.Tech Computer Science graduate passionate about software development and problem-solving.<br><br>💻 Skilled in Python, Flask, MySQL, APIs, Streamlit, and web development.<br><br>🚀 Interested in building real-world applications and continuously learning new technologies.<br><br>🌱 Currently learning backend development, APIs, and improving my development skills.
+# Syed Vaseem Basha
 
+### Python Developer | Backend Developer | Aspiring AI Engineer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaseembashasyed) 
+B.Tech Computer Science graduate passionate about software engineering, data-driven applications, and artificial intelligence.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+My journey started with Python programming and software development, where I developed an interest in building practical applications and solving real-world problems. Over time, I expanded my knowledge into backend development, REST APIs, database management, and Data Engineering.
 
+I have worked on projects involving financial analysis applications, data pipelines, cloud data platforms, and interactive analytical dashboards.
 
+Currently, I am transitioning towards AI Engineering, exploring Machine Learning, Deep Learning, Large Language Models, and Generative AI. My goal is to build intelligent applications by combining software engineering fundamentals with modern AI technologies.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+- Python
+- SQL
+- JavaScript
+
+### Backend Development
+- Flask
+- REST APIs
+- SQLite
+- MySQL
+- Jinja2
+- API Integration
+
+### Data Engineering
+- Snowflake
+- Snowpipe
+- dbt
+- Apache Spark
+- PySpark
+- ETL/ELT Pipelines
+- Medallion Architecture
+
+### Artificial Intelligence & Machine Learning
+- Machine Learning
+- Deep Learning
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- Hugging Face
+- Transformers
+- Large Language Models (LLMs)
+- LangChain
+
+### Data Analysis & Visualization
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+- Streamlit
+
+### Development Tools & Platforms
+- Git
+- GitHub
+- GitHub Actions
+- Postman
+- VS Code
+- Render
+- Vercel
+- Netlify
+
+---
+
+## Professional Journey
+
+### Software Development
+Started my technical journey with Python and application development, focusing on programming fundamentals, problem-solving, backend development, and building web applications.
+
+**Key areas:**
+- Python application development.
+- Backend development using Flask.
+- REST API integration and development.
+- Database operations using SQLite and MySQL.
+- Building interactive web applications.
+
+### Data Engineering
+Expanded my development experience into Data Engineering by working on end-to-end data processing workflows and analytical applications.
+
+**Key areas:**
+- Building ETL pipelines using Python.
+- Working with Snowflake for cloud data warehousing.
+- Automating data ingestion using Snowpipe.
+- Transforming data using dbt.
+- Implementing Bronze, Silver, and Gold layers through Medallion Architecture.
+- Developing analytical dashboards using Streamlit.
+
+### AI Engineering – Current Focus
+Currently expanding my technical expertise towards Artificial Intelligence and Generative AI, with an emphasis on understanding how modern AI systems work and building applications around them.
+
+**Current learning areas:**
+- Machine Learning algorithms and concepts.
+- Deep Learning with PyTorch.
+- Neural Networks and model training.
+- Transformer architecture and attention mechanisms.
+- Tokenization and embeddings.
+- Hugging Face Transformers.
+- Running and experimenting with local LLMs.
+- LangChain and LLM application development.
+- Building AI-powered applications.
+
+---
+
+## Featured Projects
+
+### FinSight – Financial Analysis Application
+
+A financial analysis application designed to help users explore stock market trends, analyze individual stocks, and identify potential investment opportunities.
+
+**Key Features:**
+- Stock market analysis with interactive candlestick charts.
+- Technical indicators such as RSI and MACD.
+- Stock screening based on selected financial and technical criteria.
+- Financial market data integration through APIs.
+- Interactive visualizations and analytical dashboards.
+
+**Tech Stack:** Python, Flask, SQLite, Pandas, NumPy, Plotly, yfinance, HTML, CSS, JavaScript.
+
+[View Project](https://github.com/Vaseem546/FinSight-Financial-App)
+
+### Student Placement Analytics Platform
+
+An end-to-end Data Engineering project designed to process student placement information and generate meaningful analytical insights.
+
+**Key Features:**
+- Data ingestion and processing using Python.
+- Automated data loading using Snowpipe.
+- Bronze, Silver, and Gold data layers.
+- Data transformation and modeling using dbt.
+- Interactive analytics and visualizations using Streamlit.
+
+**Tech Stack:** Python, Snowflake, Snowpipe, SQL, dbt, Streamlit.
+
+---
+
+## My AI Engineering Roadmap
+
+I am continuously working towards developing the skills required to become an AI Engineer.
+
+| Area | Focus |
+|---|---|
+| Python | Advanced programming and application development |
+| Mathematics | Linear Algebra, Statistics and Probability |
+| Machine Learning | Algorithms, model training and evaluation |
+| Deep Learning | Neural Networks and PyTorch |
+| NLP | Text processing, tokenization and embeddings |
+| Transformers | Attention mechanisms and transformer models |
+| LLM Engineering | Hugging Face, local models and LangChain |
+| Generative AI | Building LLM-powered applications |
+| AI Application Development | Integrating AI models with backend systems and APIs |
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaseembashasyed)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaseem546)
+
+---
+
+*Building a strong foundation in software engineering, data systems, and artificial intelligence — one project at a time.*
