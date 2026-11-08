@@ -11,6 +11,34 @@ I have worked on projects involving financial analysis applications, data pipeli
 Currently, I am transitioning towards AI Engineering, exploring Machine Learning, Deep Learning, Large Language Models, and Generative AI. My goal is to build intelligent applications by combining software engineering fundamentals with modern AI technologies.
 
 ---
+## Professional Experience
+
+### Revature | Software Engineer Trainee
+**8-Week Data Engineering Training Program**
+
+Completed an intensive 8-week Data Engineering training program focused on developing practical skills in data processing, cloud data platforms, data transformation, and modern data pipeline development.
+
+**Technical Skills & Learning:**
+- Developed data processing solutions using Python and SQL.
+- Worked with PySpark for distributed data processing.
+- Gained hands-on experience with Snowflake for cloud data warehousing.
+- Used Snowpipe for automated data ingestion.
+- Worked with dbt for data transformation and modeling.
+- Explored Microsoft Fabric and modern data engineering workflows.
+- Learned ETL/ELT processes and Medallion Architecture.
+- Worked with data quality, dimensional modeling, and Star Schema concepts.
+
+**Project Experience: Student Placement Analytics Platform**
+
+Worked on a team-based Data Engineering project to build an end-to-end data pipeline for analyzing student placement information.
+
+- Implemented data ingestion workflows using Python and Snowflake.
+- Processed raw data through the Bronze layer.
+- Applied data cleaning, validation, and transformation in the Silver layer.
+- Developed analytical data models in the Gold layer using dbt.
+- Built interactive dashboards using Streamlit to present placement insights.
+
+**Technologies:** Python, SQL, PySpark, Snowflake, Snowpipe, dbt, Microsoft Fabric, Streamlit.
 
 ## Technical Skills
 
